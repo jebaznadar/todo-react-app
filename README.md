@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# React Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, fully-functional task management application built with React. This project demonstrates core React concepts including hooks, state management, and local storage integration.
 
-## Available Scripts
+![Todo App Preview](src/Screenshot%202026-01-12%20190508.png)
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+[View Live Demo](todotaskreactapp.netlify.app) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ✅ **Add Tasks** - Create new tasks with a simple input
+- ✅ **Mark Complete** - Toggle task completion status
+- ✅ **Delete Tasks** - Remove tasks individually
+- ✅ **Filter Views** - View all, active, or completed tasks
+- ✅ **Statistics** - Track active, completed, and total tasks
+- ✅ **Bulk Actions** - Clear all completed tasks at once
+- ✅ **Persistent Storage** - Tasks saved in localStorage
+- ✅ **Responsive Design** - Works on desktop and mobile devices
 
-### `npm test`
+## 🛠️ Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React 18** - JavaScript library for building user interfaces
+- **React Hooks** - useState, useEffect for state management
+- **LocalStorage API** - Client-side data persistence
+- **CSS3** - Modern styling with gradients and animations
+- **JavaScript ES6+** - Modern JavaScript features
 
-### `npm run build`
+## 📋 React Concepts Demonstrated
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project showcases essential React skills:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **State Management** - Using `useState` to manage todos, filters, and input
+- **Side Effects** - Using `useEffect` for localStorage synchronization
+- **Event Handling** - onClick, onChange, onKeyPress handlers
+- **Conditional Rendering** - Dynamic UI based on state
+- **Array Methods** - map, filter for rendering and data manipulation
+- **Component Structure** - Clean, organized component architecture
+- **Controlled Components** - Form inputs controlled by React state
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Add New Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Some ideas to extend this project:
+- Edit existing todos
+- Add categories/tags
+- Set due dates
+- Priority levels
+- Dark mode toggle
+- Search functionality
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧪 Future Enhancements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [ ] Add edit functionality for existing todos
+- [ ] Integrate with a backend API (.NET Web API)
+- [ ] Add user authentication
+- [ ] Implement drag-and-drop reordering
+- [ ] Add task categories and priorities
+- [ ] Export tasks to CSV/JSON
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📝 Learning Resources
 
-## Learn More
+If you're learning React, check out:
+- [React Official Documentation](https://react.dev)
+- [React Hooks Guide](https://react.dev/reference/react)
+- [Create React App Docs](https://create-react-app.dev)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Your Name**
+- Portfolio: [yourportfolijebaznadar.com](https://jebaznadar.netlify.app)
+- LinkedIn: [linkedin.com/in/jebaznadar](https://linkedin.com/in/jebazaugastinnadar)
+- GitHub: [@yourusernjebaznadar](https://github.com/yourusejebaznadarrname)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 License
 
-### Code Splitting
+This project is open source and available under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🙏 Acknowledgments
 
-### Analyzing the Bundle Size
+- Built as a learning project to demonstrate React fundamentals
+- Inspired by classic todo app examples
+- Perfect starter project for .NET developers learning React
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Note for Employers:** This project demonstrates my ability to:
+- Build functional React applications from scratch
+- Manage state effectively using React hooks
+- Implement persistent data storage
+- Create responsive, user-friendly interfaces
+- Write clean, maintainable code
