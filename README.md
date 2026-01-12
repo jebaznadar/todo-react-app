@@ -5,8 +5,8 @@ A modern, fully-functional task management application built with React. This pr
 ![Todo App Preview](src/Screenshot%202026-01-12%20190508.png)
 
 ## 🚀 Live Demo
-
-[View Live Demo](todotaskreactapp.netlify.app) 
+    
+[View Live Demo](http://todotaskreactapp.netlify.app) 
 
 ## ✨ Features
 
@@ -67,9 +67,9 @@ If you're learning React, check out:
 - [Create React App Docs](https://create-react-app.dev)
 
 **Your Name**
-- Portfolio: [yourportfolijebaznadar.com](https://jebaznadar.netlify.app)
-- LinkedIn: [linkedin.com/in/jebaznadar](https://linkedin.com/in/jebazaugastinnadar)
-- GitHub: [@yourusernjebaznadar](https://github.com/yourusejebaznadarrname)
+- Portfolio: [jebaznadar.com](https://jebaznadar.netlify.app)
+- LinkedIn: [linkedin.com/in/jebazaugastinnadar](https://linkedin.com/in/jebazaugastinnadar)
+- GitHub: [@jebaznadar](https://github.com/jebaznadar)
 
 ## 📄 License
 
